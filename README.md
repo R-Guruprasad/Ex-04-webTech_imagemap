@@ -132,11 +132,9 @@ TheChineseStory.htm :
         Yet to be upgraded to town Panchayat, the hamlet lacked even proper roads. This was the time 
         PV Janardhanan nurtured and materialised his dream of starting a cinema. It all began with a 
         touring talkies called Gopalakrishna Theatre. With a cherished ambition to make it big in the 
-        show business, he later went to build a theatre and it took almost two years to finish the work. 
-        
+        show business, he later went to build a theatre and it took almost two years to finish the work.    
     </body>
     </html>
-
 ```
 # Output:
 ![label](./map.png)

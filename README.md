@@ -50,9 +50,13 @@ TheChineseStory.htm :
     <body>
         <h1 align="center">The Chinese Story</h1>
         <hr color="red">
-        A place offering stomach-filling food at reasonable prices is a gem for foodies. This place is such a gem as it offers delicious Chinese and Thai food in great portions, despite the low prices. 
-        The ambience of the restaurant is calm and casual. Fried Rice and Chole Prawns with noodles are must haves here.Their popular dishes are 
-        Lamb Spring Onion, Butter Noodles, Wasabi Prawns, Noodle, Dragon Chicken, Egg Fried Rice.People say this place is known for
+        A place offering stomach-filling food at reasonable prices is a gem for foodies.
+        This place is such a gem as it offers delicious Chinese and Thai food in great 
+        portions, despite the low prices. 
+        The ambience of the restaurant is calm and casual. Fried Rice and Chole Prawns with 
+        noodles are must haves here.Their popular dishes are 
+        Lamb Spring Onion, Butter Noodles, Wasabi Prawns, Noodle, Dragon Chicken, Egg Fried 
+        Rice.People say this place is known for
         Cute Little Place, Chinese, Great Ambiance, Courteous Service, Parking Space, Theme.
 
     </body>

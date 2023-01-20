@@ -71,7 +71,12 @@ TheChineseStory.htm :
     <body>
         <h1 align="center">BYJU'S</h1>
         <hr color="red">
-        Byju's is an Indian multinational educational technology company, headquartered in Bangalore, Karnataka, India. It was founded in 2011 by Byju Raveendran and Divya Gokulnath.As of March 2022, Byju's is valued at US$22 billion and the company claims to have over 115 million registered students.In January 2022, the company joined Simplilearn, Unacademy, upGrad, PrepInsta Prime and Vedantu to become one of the founding members of IAMAI's India EdTech Consortium.
+        Byju's is an Indian multinational educational technology company, headquartered in 
+        Bangalore, Karnataka, India. It was founded in 2011 by Byju Raveendran and Divya Gokulnath.
+        As of March 2022, Byju's is valued at US$22 billion and the company claims to have over 
+        115 million registered students.In January 2022, the company joined Simplilearn, Unacademy,
+         upGrad, PrepInsta Prime and Vedantu to become one of the founding members of IAMAI's India
+        EdTech Consortium.
 
     </body>
     </html>
@@ -85,7 +90,12 @@ TheChineseStory.htm :
     <body>
         <h1 align="center">The Super Saravana Stores</h1>
         <hr color="red">
-        The story of serving customers by providing them with what they want at an unbelievably affordable price started as a small textile shop on 45, Ranganathan Street, Since 1969, now it is a textile showroom par excellence that the whole of Chennai can be proud of. A success story made from hard work, sound business practices, and dynamism, guided by a management vision. By the continuing patronage of people, Saravana Stores is now a fantasy land of shopping located at T. Nagar, Purasawalkam, Chrompet, and Porur.
+        The story of serving customers by providing them with what they want at an unbelievably
+        affordable price started as a small textile shop on 45, Ranganathan Street, Since 1969,
+        now it is a textile showroom par excellence that the whole of Chennai can be proud of.
+        A success story made from hard work, sound business practices, and dynamism, guided by 
+        a management vision. By the continuing patronage of people, Saravana Stores is now a 
+        fantasy land of shopping located at T. Nagar, Purasawalkam, Chrompet, and Porur.
         
     </body>
     </html>
@@ -99,7 +109,12 @@ TheChineseStory.htm :
     <body>
         <h1 align="center">Anjappar</h1>
         <hr color="red">
-        Anjappar Chettinad Restaurant is a privately owned Indian casual-dining restaurant chain, founded in Chennai, Tamil Nadu, India in 1964. It now operates over 30 locations in Chennai, Erode, Madurai, Coimbatore, Salem, and Bangalore. Internationally, the franchise has restaurants in Sri Lanka, Singapore, Malaysia, Hong Kong, the Middle East, Australia, and North America.Anjappar offers South Indian cuisine, particularly focusing on producing Chettinad-style preparations, while some locations additionally offer Sri Lankan, Oriental and Middle East dishes.
+        Anjappar Chettinad Restaurant is a privately owned Indian casual-dining restaurant chain,
+        founded in Chennai, Tamil Nadu, India in 1964. It now operates over 30 locations in Chennai,
+        Erode, Madurai, Coimbatore, Salem, and Bangalore. Internationally, the franchise has restaurants
+         in Sri Lanka, Singapore, Malaysia, Hong Kong, the Middle East, Australia, and North America.
+         Anjappar offers South Indian cuisine, particularly focusing on producing Chettinad-style 
+         preparations, while some locations additionally offer Sri Lankan, Oriental and Middle East dishes.
         
     </body>
     </html>
@@ -113,7 +128,11 @@ TheChineseStory.htm :
     <body>
         <h1 align="center">G.K Cinemas</h1>
         <hr color="red">
-        Flashback to 1974: Porur was a little-known village in the outskirts of the erstwhile Madras. Yet to be upgraded to town Panchayat, the hamlet lacked even proper roads. This was the time PV Janardhanan nurtured and materialised his dream of starting a cinema. It all began with a touring talkies called Gopalakrishna Theatre. With a cherished ambition to make it big in the show business, he later went to build a theatre and it took almost two years to finish the work. 
+        Flashback to 1974: Porur was a little-known village in the outskirts of the erstwhile Madras.
+        Yet to be upgraded to town Panchayat, the hamlet lacked even proper roads. This was the time 
+        PV Janardhanan nurtured and materialised his dream of starting a cinema. It all began with a 
+        touring talkies called Gopalakrishna Theatre. With a cherished ambition to make it big in the 
+        show business, he later went to build a theatre and it took almost two years to finish the work. 
         
     </body>
     </html>
